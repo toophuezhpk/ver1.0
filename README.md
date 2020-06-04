@@ -1,6 +1,17 @@
-# Red-chasing
+# City Armoured Car
 
-PRIVACY POLICY
+Do you like to drive fast in the city? Have you ever experienced the pleasure of flying a car? "City Armoured Car" is a very interesting casual game.
+
+In the game, you can turn the speed up to maximum and fly in the air. Of course, you can also slow down and see the enemy open your weapon and destroy him!
+
+Are you ready for multiple levels to unlock?
+
+Ready Go !
+
+--
+
+## PRIVACY POLICY
+
 Thank you for playing our games! This Privacy Policy describes:
 
 The ways we collect personal data about you and why we do so.
